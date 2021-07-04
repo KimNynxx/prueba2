@@ -12,7 +12,7 @@ namespace Dew
         public const int AutoPlayDuration = 5; // Number of simulations that should be done after an input even if no new input is sent
 
         public const ulong BotId = 0;
-        public const ulong ChannelId = 0;
+        public const ulong ChannelId = 861323009579024394;
         public const ulong InputMessage = 0;
 
         public const string Core = "";
